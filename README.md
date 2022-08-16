@@ -1,4 +1,4 @@
-# Unit 1 Homework Assignment: FinTech Case Study
+# Credit Karma: FinTech Case Study
 
 ![Credit Karma](images/creditkarma.png) 
 
